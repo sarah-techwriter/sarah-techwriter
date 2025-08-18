@@ -1,5 +1,5 @@
 ## Hi! I'm Sarah 🌐 
-A technical writer focused on AI-focused documentation and clear user comunication. I'm an English Graduate building expertise in creating actionable content for software platforms, business implementation guides, and customer support systems.
+A technical writer specializing in AI platform documentation and user focused content. I'm an English Graduate building expertise in creating actionable content for software platforms, business implementation guides, and customer support systems.
 
 ### Featured Projects 💡
 * **Web Platform User Guide** (done) - Comprehensive documentation for AI-powered course documentation system. (3000+ words, 19,000+ HTML characters, 381 paragraphs)
