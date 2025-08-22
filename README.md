@@ -11,7 +11,7 @@ A technical writer specializing in AI platform documentation and user-focused co
 ### 🚀 Completed & Published
 | Project | Description | Highlights |
 | :--- | :--- | :--- |
-| [**CourseCorrect User Help Hub**](coursecorrect-guide/README.md) | Comprehensive guide for an AI-powered course discovery platform. | **3000+ words** | **19k+ characters** | **Structured for clarity** | **Full troubleshooting section** |
+| [**CourseCorrect User Help Hub**](https://github.com/sarah-techwriter/Technical-Writing-Portfolio/tree/main/coursecorrect-guide) | Comprehensive guide for an AI-powered course discovery platform. | **3000+ words** | **19k+ characters** | **Structured for clarity** | **Full troubleshooting section** |
 
 ### 🔧 In Progress & On schedule
 *   **AI Business Implementation Guide** - Strategic guide for AI solution deployment
