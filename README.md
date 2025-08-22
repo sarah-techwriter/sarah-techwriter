@@ -1,6 +1,6 @@
 # Hi! I'm Sarah 🌐
 
-A technical writer specializing in AI platform documentation and user-focused content. I transform complex features into clear, actionable guides that help users succeed and reduce support overhead.
+A technical writer specializing in AI platform documentation and user-focused content. I transform complex features into clear, actionable guides that help users succeed and accelerate productivity.
 
 > "_I journal for me, I write docs for others_" 💕
 
