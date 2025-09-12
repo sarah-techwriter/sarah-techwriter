@@ -34,7 +34,7 @@ A technical writer specializing in AI platform documentation and user-focused co
 
 ## Let's Connect! ☎️
 
-I'm always interested in new opportunities and conversations about great documentation.
+Open to technical writing opportunities and documentation collaborations!
 
 *   **Email:** amaliassarah6@gmail.com
 *   **LinkedIn:** [www.linkedin.com/in/amaliassarah](https://www.linkedin.com/in/amaliassarah)
