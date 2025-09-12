@@ -38,7 +38,7 @@ Open to technical writing opportunities and documentation collaborations!
 
 *   **Email:** amaliassarah6@gmail.com
 *   **LinkedIn:** [www.linkedin.com/in/amaliassarah](https://www.linkedin.com/in/amaliassarah)
-*   **Web:** [sarah-techwriter.github.io](https://sarah-techwriter.github.io/portfolio/)
+*   **Web:** [sarah-techwriter.github.io](https://sarah-techwriter.github.io)
 
 ---
 *Portfolio last updated: Sept 2025*
