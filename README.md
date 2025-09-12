@@ -24,7 +24,7 @@ A technical writer specializing in AI platform documentation and user-focused co
 
 **📝 Documentation Specialties:** User Guides | Process Documentation | Troubleshooting Guides | Knowledge Bases | How-To Tutorials
 
-**⚙️ Tools & Tech:** Markdown | Git | GitHub | AI-Assisted Writing
+**⚙️ Tools & Tech:** Markdown | Git | GitHub | AI Documentation Tools
 
 **🎯 Focus Areas:** AI/ML Platforms | SaaS Products | Customer Support Systems
 
