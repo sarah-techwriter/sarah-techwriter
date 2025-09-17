@@ -27,7 +27,7 @@ A technical writer specializing in AI platform documentation and user-focused co
 
 Open to technical writing opportunities and documentation collaborations!
 
-*   **Email:** amaliassarah6@gmail.com
+*   **Email:** sarahtechwriter@gmail.com
 *   **LinkedIn:** [www.linkedin.com/in/amaliassarah](https://www.linkedin.com/in/amaliassarah)
 *   **Web:** [sarah-techwriter.github.io](https://sarah-techwriter.github.io)
 
