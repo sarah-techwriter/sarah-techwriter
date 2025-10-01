@@ -1,35 +1,33 @@
-# Hi! I'm Sarah 🌐
+# Hi, I'm Sarah
 
-A technical writer specializing in AI platform documentation and user-focused content. I transform complex features into clear, actionable guides that help users succeed and accelerate productivity.
+Technical writer specializing in creating clear, user-focused documentation for SaaS and AI platforms. I transform complex software into accessible guides that help users succeed independently.
 
-> "_I journal for me, I write docs for others_" 💕
+## Featured Work
 
----
+**CourseCorrect Documentation Suite**
+- Complete User Guide - 3,000+ word comprehensive documentation
+- Quickstart Guide - New user onboarding
+- Troubleshooting Guide - Problem-solving workflows  
+- FAQ - Quick reference for common questions
 
-## Featured Projects 💡
+**Technical Content**
+- How I Use Claude and NotebookLM for Technical Writing - AI-assisted documentation workflows
+- Understanding GPU Benchmarks - Technical concepts for general audiences
 
-### 🚀 Completed & Published
-| Project | Description | Highlights |
-| :--- | :--- | :--- |
-| [**CourseCorrect User Help Hub**](https://github.com/sarah-techwriter/Technical-Writing-Portfolio/tree/main/coursecorrect-guide) | Comprehensive guide for an AI-powered course discovery platform. | **3000+ words** | **19k+ characters** | **Structured for clarity** | **Full troubleshooting section** |
+## Skills & Tools
 
----
+**Documentation:** User Guides, Knowledge Bases, Troubleshooting Workflows, FAQs  
+**Tools:** Markdown, Git, GitHub, HTML, AI-assisted workflows  
+**Focus:** SaaS platforms, AI tools, customer support documentation
 
-## My Skills & Tools 🔧🔌
-**📝 Documentation Specialties:** User Guides | Process Documentation | Troubleshooting Guides | Knowledge Bases | How-To Tutorials
-**⚙️ Tools & Tech:** Markdown | Git | GitHub | AI Documentation Tools
-**🎯 Focus Areas:** AI/ML Platforms | SaaS Products | Customer Support Systems
-**🎓 Background:** English Graduate | Professional Writing
+## Background
 
----
+English graduate with a focus on technical communication and user experience. I integrate AI tools strategically throughout my documentation process to work efficiently while maintaining accuracy and clarity.
 
-## Let's Connect! ☎️
+## Connect
 
-Open to technical writing opportunities and documentation collaborations!
+- **Portfolio:** [sarah-techwriter.github.io](https://sarah-techwriter.github.io)
+- **LinkedIn:** [linkedin.com/in/amaliassarah](https://linkedin.com/in/amaliassarah)
+- **Email:** sarahtechwriter@gmail.com
 
-*   **Email:** sarahtechwriter@gmail.com
-*   **LinkedIn:** [www.linkedin.com/in/amaliassarah](https://www.linkedin.com/in/amaliassarah)
-*   **Web:** [sarah-techwriter.github.io](https://sarah-techwriter.github.io)
-
----
-*Portfolio last updated: Sept 2025*
+Open to technical writing opportunities and documentation collaborations.
