@@ -15,4 +15,4 @@ Guided by strong curiosity, I enjoy understanding how systems and processes work
 ---
 
 ## 📫 Visit my **website portfolio** at:
-[sarah-techwriter.github.io](https://sarah-techwriter.github.io/)
+[sarah-amalia.github.io](https://sarah-amalia.github.io/)
